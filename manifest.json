@@ -1,0 +1,38 @@
+{
+  "name": "WAWANG.ID",
+  "short_name": "wawang.id",
+  "start_url": "https://www.wawang.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "description": "Wawang.Id Adalah Blog Yang Membahas Seputar Cara dan Tutorial Teknologi Baik Android (apk, mod), Internet, Berita Terkini, Trending Topik, dan Umum.",
+  "icons": [{
+    "src": "http://3.bp.blogspot.com/-Diu8ncp4uzE/XbQrAen7xeI/AAAAAAAABX0/cm637egnIyc6dPLeJ3PNBuqcwDlOGR4aACK4BGAYYCw/s48/wawang.id.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-Diu8ncp4uzE/XbQrAen7xeI/AAAAAAAABX0/cm637egnIyc6dPLeJ3PNBuqcwDlOGR4aACK4BGAYYCw/s72/wawang.id.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-Diu8ncp4uzE/XbQrAen7xeI/AAAAAAAABX0/cm637egnIyc6dPLeJ3PNBuqcwDlOGR4aACK4BGAYYCw/s96/wawang.id.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-Diu8ncp4uzE/XbQrAen7xeI/AAAAAAAABX0/cm637egnIyc6dPLeJ3PNBuqcwDlOGR4aACK4BGAYYCw/s144/wawang.id.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-Diu8ncp4uzE/XbQrAen7xeI/AAAAAAAABX0/cm637egnIyc6dPLeJ3PNBuqcwDlOGR4aACK4BGAYYCw/s168/wawang.id.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-Diu8ncp4uzE/XbQrAen7xeI/AAAAAAAABX0/cm637egnIyc6dPLeJ3PNBuqcwDlOGR4aACK4BGAYYCw/s192/wawang.id.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "http://3.bp.blogspot.com/-Diu8ncp4uzE/XbQrAen7xeI/AAAAAAAABX0/cm637egnIyc6dPLeJ3PNBuqcwDlOGR4aACK4BGAYYCw/s512/wawang.id.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
