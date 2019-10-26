@@ -4,7 +4,7 @@
   "start_url": "https://www.wawang.id/",
   "display": "standalone",
   "background_color": "#fff",
-  "theme_color": "linear-gradient(to right, #20b066, #24cd77)",
+  "theme_color": "#20b066",
   "description": "Wawang.Id Adalah Blog Yang Membahas Seputar Cara dan Tutorial Teknologi Baik Android (apk, mod), Internet, Berita Terkini, Trending Topik, dan Umum.",
   "icons": [{
     "src": "http://3.bp.blogspot.com/-Diu8ncp4uzE/XbQrAen7xeI/AAAAAAAABX0/cm637egnIyc6dPLeJ3PNBuqcwDlOGR4aACK4BGAYYCw/s48/wawang.id.png",
